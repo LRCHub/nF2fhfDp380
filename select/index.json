@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "KIRA KIRA",
+  "base_artist": "SIRUP",
+  "createdAt": "2025-12-01T03:05:55.774978Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lobby (feat. Young Kira) (prod. by Young Kira)",
+      "artist": "LGoony",
+      "has_synced": true,
+      "path": "select/01_Lobby_(feat._Young_Kira)_(prod._by_Young_Kira)_LGoony.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Solid Gold (feat. Kira Divine & Marques Toliver)",
+      "artist": "Pnau, Kira Divine, Marques Toliver",
+      "has_synced": true,
+      "path": "select/02_Solid_Gold_(feat._Kira_Divine_&_Marques_Toliver)_Pnau,_Kira_Divine,_Marques_Toliver.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "GENKI ZENKAI DAY!DAY!DAY! REMIX　Remixed by DJ KIRA",
+      "artist": "CYaRon!",
+      "has_synced": true,
+      "path": "select/03_GENKI_ZENKAI_DAY!DAY!DAY!_REMIX_Remixed_by_DJ_KIRA_CYaRon!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "KiRa-KiRa Sensation!",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/04_KiRa-KiRa_Sensation!_μ's.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "KiRa-KiRa Sensation!",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/05_KiRa-KiRa_Sensation!_μ's.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ChiruChiru (KIRA remix)",
+      "artist": "Rachie",
+      "has_synced": true,
+      "path": "select/06_ChiruChiru_(KIRA_remix)_Rachie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ChiruChiru (KIRA Remix)",
+      "artist": "rachie",
+      "has_synced": true,
+      "path": "select/07_ChiruChiru_(KIRA_Remix)_rachie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kalbimi Kıra Kıra",
+      "artist": "Muazzez Ersoy",
+      "has_synced": true,
+      "path": "select/08_Kalbimi_Kıra_Kıra_Muazzez_Ersoy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ChiruChiru - KIRA remix",
+      "artist": "Rachie/KIRA",
+      "has_synced": true,
+      "path": "select/09_ChiruChiru_-_KIRA_remix_Rachie_KIRA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "KIRA★KIRA★TRAIN",
+      "artist": "Ikimonogakari",
+      "has_synced": false,
+      "path": "select/10_KIRA★KIRA★TRAIN_Ikimonogakari.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "KIRA★KIRA★TRAIN",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/11_KIRA★KIRA★TRAIN_いきものがかり.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kira Kira Killer",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/12_Kira_Kira_Killer_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kira Kira Killer",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/13_Kira_Kira_Killer_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Kira Kira Killer (Extended Mix)",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": false,
+      "path": "select/14_Kira_Kira_Killer_(Extended_Mix)_Kyary_Pamyu_Pamyu.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Kira Kira Killer [きらきらキラー]",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/15_Kira_Kira_Killer_[きらきらキラー]_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Realest on the Cloud (feat. Hlvii Kira)",
+      "artist": "Shiki-TMNS",
+      "has_synced": false,
+      "path": "select/16_Realest_on_the_Cloud_(feat._Hlvii_Kira)_Shiki-TMNS.txt"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "KIRA KIRA",
+      "artist": "SIRUP",
+      "has_synced": false,
+      "path": "select/pl_KIRA_KIRA_SIRUP.txt"
+    }
+  ]
+}
